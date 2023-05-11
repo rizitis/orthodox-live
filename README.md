@@ -1,5 +1,5 @@
 # orthodox-live
-You can watch or listen Greek orthodox web tv or radio
+You can watch or listen Greek orthodox web tv and radio
 
 ## INSTALL
 First make sure you have **zenity** installed in your system.
