@@ -1,0 +1,13 @@
+#PemptousiaTV:
+https://svs.itworkscdn.net/pemptousialive/pemptousia.smil/playlist.m3u8
+======================================================================
+#PemptousiaFM:
+https://stream.radiojar.com/48cz219puzzuv
+======================================================================
+#IMLemesou:
+http://194.154.128.242:9090/stream.mp3
+======================================================================
+#4E:
+http://eu2.tv4e.gr:554/live/smil:myStream.sdp.smil/playlist.m3u8
+======================================================================
+
