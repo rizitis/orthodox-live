@@ -2,7 +2,7 @@
 You can watch or listen Greek orthodox web tv or radio
 
 ## INSTALL
-First make sure you have zenity installed in your system.
+First make sure you have **zenity** installed in your system.
 
 Then open a terminal and command:
 ```
